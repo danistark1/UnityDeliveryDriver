@@ -5,7 +5,7 @@ using UnityEngine;
 public class Driver : MonoBehaviour
 {
    float steerSpeed = 250;
- float moveSpeed = 20;
+   float moveSpeed = 20;
     // Start is called before the first frame update
     void Start()
     {
