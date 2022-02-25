@@ -47,7 +47,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Collision.cs" />
+     <Compile Include="Assets\Delivery.cs" />
      <Compile Include="Assets\FollowCamera.cs" />
      <Compile Include="Assets\Driver.cs" />
  <Reference Include="UnityEngine">
